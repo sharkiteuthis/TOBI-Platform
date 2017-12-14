@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.6.0">
+<eagle version="8.2.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -7965,98 +7965,6 @@ at 30/07/2012 17:45:58</description>
 <text x="-8.7376" y="19.2532" size="2.0828" layer="25" ratio="10" rot="SR0">&gt;NAME</text>
 <text x="-9.525" y="-3.7592" size="2.0828" layer="27" ratio="10" rot="SR0">&gt;VALUE</text>
 </package>
-<package name="DIP254P762X508-14">
-<pad name="1" x="-7.62" y="15.24" drill="1.1176" shape="square"/>
-<pad name="2" x="-7.62" y="12.7" drill="1.1176"/>
-<pad name="3" x="-7.62" y="10.16" drill="1.1176"/>
-<pad name="4" x="-7.62" y="7.62" drill="1.1176"/>
-<pad name="5" x="-7.62" y="5.08" drill="1.1176"/>
-<pad name="6" x="-7.62" y="2.54" drill="1.1176"/>
-<pad name="7" x="-7.62" y="0" drill="1.1176"/>
-<pad name="8" x="0" y="0" drill="1.1176"/>
-<pad name="9" x="0" y="2.54" drill="1.1176"/>
-<pad name="10" x="0" y="5.08" drill="1.1176"/>
-<pad name="11" x="0" y="7.62" drill="1.1176"/>
-<pad name="12" x="0" y="10.16" drill="1.1176"/>
-<pad name="13" x="0" y="12.7" drill="1.1176"/>
-<pad name="14" x="0" y="15.24" drill="1.1176"/>
-<wire x1="-0.508" y1="16.4592" x2="-0.508" y2="17.4752" width="0.1524" layer="21"/>
-<wire x1="-7.112" y1="-1.2192" x2="-7.112" y2="-2.2352" width="0.1524" layer="21"/>
-<wire x1="-7.112" y1="-2.2352" x2="-0.508" y2="-2.2352" width="0.1524" layer="21"/>
-<wire x1="-0.508" y1="-2.2352" x2="-0.508" y2="-1.2192" width="0.1524" layer="21"/>
-<wire x1="-0.508" y1="17.4752" x2="-3.5052" y2="17.4752" width="0.1524" layer="21"/>
-<wire x1="-3.5052" y1="17.4752" x2="-4.1148" y2="17.4752" width="0.1524" layer="21"/>
-<wire x1="-4.1148" y1="17.4752" x2="-7.112" y2="17.4752" width="0.1524" layer="21"/>
-<wire x1="-7.112" y1="17.4752" x2="-7.112" y2="16.5608" width="0.1524" layer="21"/>
-<wire x1="-3.5052" y1="17.4752" x2="-4.1148" y2="17.4752" width="0" layer="21" curve="-180"/>
-<text x="-8.2042" y="16.3576" size="1.27" layer="21" ratio="6" rot="SR0">*</text>
-<wire x1="-7.112" y1="14.6812" x2="-7.112" y2="15.7988" width="0.1524" layer="51"/>
-<wire x1="-7.112" y1="15.7988" x2="-8.1788" y2="15.7988" width="0.1524" layer="51"/>
-<wire x1="-8.1788" y1="15.7988" x2="-8.1788" y2="14.6812" width="0.1524" layer="51"/>
-<wire x1="-8.1788" y1="14.6812" x2="-7.112" y2="14.6812" width="0.1524" layer="51"/>
-<wire x1="-7.112" y1="12.1412" x2="-7.112" y2="13.2588" width="0.1524" layer="51"/>
-<wire x1="-7.112" y1="13.2588" x2="-8.1788" y2="13.2588" width="0.1524" layer="51"/>
-<wire x1="-8.1788" y1="13.2588" x2="-8.1788" y2="12.1412" width="0.1524" layer="51"/>
-<wire x1="-8.1788" y1="12.1412" x2="-7.112" y2="12.1412" width="0.1524" layer="51"/>
-<wire x1="-7.112" y1="9.6012" x2="-7.112" y2="10.7188" width="0.1524" layer="51"/>
-<wire x1="-7.112" y1="10.7188" x2="-8.1788" y2="10.7188" width="0.1524" layer="51"/>
-<wire x1="-8.1788" y1="10.7188" x2="-8.1788" y2="9.6012" width="0.1524" layer="51"/>
-<wire x1="-8.1788" y1="9.6012" x2="-7.112" y2="9.6012" width="0.1524" layer="51"/>
-<wire x1="-7.112" y1="7.0612" x2="-7.112" y2="8.1788" width="0.1524" layer="51"/>
-<wire x1="-7.112" y1="8.1788" x2="-8.1788" y2="8.1788" width="0.1524" layer="51"/>
-<wire x1="-8.1788" y1="8.1788" x2="-8.1788" y2="7.0612" width="0.1524" layer="51"/>
-<wire x1="-8.1788" y1="7.0612" x2="-7.112" y2="7.0612" width="0.1524" layer="51"/>
-<wire x1="-7.112" y1="4.5212" x2="-7.112" y2="5.6388" width="0.1524" layer="51"/>
-<wire x1="-7.112" y1="5.6388" x2="-8.1788" y2="5.6388" width="0.1524" layer="51"/>
-<wire x1="-8.1788" y1="5.6388" x2="-8.1788" y2="4.5212" width="0.1524" layer="51"/>
-<wire x1="-8.1788" y1="4.5212" x2="-7.112" y2="4.5212" width="0.1524" layer="51"/>
-<wire x1="-7.112" y1="1.9812" x2="-7.112" y2="3.0988" width="0.1524" layer="51"/>
-<wire x1="-7.112" y1="3.0988" x2="-8.1788" y2="3.0988" width="0.1524" layer="51"/>
-<wire x1="-8.1788" y1="3.0988" x2="-8.1788" y2="1.9812" width="0.1524" layer="51"/>
-<wire x1="-8.1788" y1="1.9812" x2="-7.112" y2="1.9812" width="0.1524" layer="51"/>
-<wire x1="-7.112" y1="-0.5588" x2="-7.112" y2="0.5588" width="0.1524" layer="51"/>
-<wire x1="-7.112" y1="0.5588" x2="-8.1788" y2="0.5588" width="0.1524" layer="51"/>
-<wire x1="-8.1788" y1="0.5588" x2="-8.1788" y2="-0.5588" width="0.1524" layer="51"/>
-<wire x1="-8.1788" y1="-0.5588" x2="-7.112" y2="-0.5588" width="0.1524" layer="51"/>
-<wire x1="-0.508" y1="0.5588" x2="-0.508" y2="-0.5588" width="0.1524" layer="51"/>
-<wire x1="-0.508" y1="-0.5588" x2="0.5588" y2="-0.5588" width="0.1524" layer="51"/>
-<wire x1="0.5588" y1="-0.5588" x2="0.5588" y2="0.5588" width="0.1524" layer="51"/>
-<wire x1="0.5588" y1="0.5588" x2="-0.508" y2="0.5588" width="0.1524" layer="51"/>
-<wire x1="-0.508" y1="3.0988" x2="-0.508" y2="1.9812" width="0.1524" layer="51"/>
-<wire x1="-0.508" y1="1.9812" x2="0.5588" y2="1.9812" width="0.1524" layer="51"/>
-<wire x1="0.5588" y1="1.9812" x2="0.5588" y2="3.0988" width="0.1524" layer="51"/>
-<wire x1="0.5588" y1="3.0988" x2="-0.508" y2="3.0988" width="0.1524" layer="51"/>
-<wire x1="-0.508" y1="5.6388" x2="-0.508" y2="4.5212" width="0.1524" layer="51"/>
-<wire x1="-0.508" y1="4.5212" x2="0.5588" y2="4.5212" width="0.1524" layer="51"/>
-<wire x1="0.5588" y1="4.5212" x2="0.5588" y2="5.6388" width="0.1524" layer="51"/>
-<wire x1="0.5588" y1="5.6388" x2="-0.508" y2="5.6388" width="0.1524" layer="51"/>
-<wire x1="-0.508" y1="8.1788" x2="-0.508" y2="7.0612" width="0.1524" layer="51"/>
-<wire x1="-0.508" y1="7.0612" x2="0.5588" y2="7.0612" width="0.1524" layer="51"/>
-<wire x1="0.5588" y1="7.0612" x2="0.5588" y2="8.1788" width="0.1524" layer="51"/>
-<wire x1="0.5588" y1="8.1788" x2="-0.508" y2="8.1788" width="0.1524" layer="51"/>
-<wire x1="-0.508" y1="10.7188" x2="-0.508" y2="9.6012" width="0.1524" layer="51"/>
-<wire x1="-0.508" y1="9.6012" x2="0.5588" y2="9.6012" width="0.1524" layer="51"/>
-<wire x1="0.5588" y1="9.6012" x2="0.5588" y2="10.7188" width="0.1524" layer="51"/>
-<wire x1="0.5588" y1="10.7188" x2="-0.508" y2="10.7188" width="0.1524" layer="51"/>
-<wire x1="-0.508" y1="13.2588" x2="-0.508" y2="12.1412" width="0.1524" layer="51"/>
-<wire x1="-0.508" y1="12.1412" x2="0.5588" y2="12.1412" width="0.1524" layer="51"/>
-<wire x1="0.5588" y1="12.1412" x2="0.5588" y2="13.2588" width="0.1524" layer="51"/>
-<wire x1="0.5588" y1="13.2588" x2="-0.508" y2="13.2588" width="0.1524" layer="51"/>
-<wire x1="-0.508" y1="15.7988" x2="-0.508" y2="14.6812" width="0.1524" layer="51"/>
-<wire x1="-0.508" y1="14.6812" x2="0.5588" y2="14.6812" width="0.1524" layer="51"/>
-<wire x1="0.5588" y1="14.6812" x2="0.5588" y2="15.7988" width="0.1524" layer="51"/>
-<wire x1="0.5588" y1="15.7988" x2="-0.508" y2="15.7988" width="0.1524" layer="51"/>
-<wire x1="-7.112" y1="-2.2352" x2="-0.508" y2="-2.2352" width="0.1524" layer="51"/>
-<wire x1="-0.508" y1="-2.2352" x2="-0.508" y2="17.4752" width="0.1524" layer="51"/>
-<wire x1="-0.508" y1="17.4752" x2="-3.5052" y2="17.4752" width="0.1524" layer="51"/>
-<wire x1="-3.5052" y1="17.4752" x2="-4.1148" y2="17.4752" width="0.1524" layer="51"/>
-<wire x1="-4.1148" y1="17.4752" x2="-7.112" y2="17.4752" width="0.1524" layer="51"/>
-<wire x1="-7.112" y1="17.4752" x2="-7.112" y2="-2.2352" width="0.1524" layer="51"/>
-<wire x1="-3.5052" y1="17.4752" x2="-4.1148" y2="17.4752" width="0" layer="51" curve="-180"/>
-<text x="-8.2042" y="16.3576" size="1.27" layer="51" ratio="6" rot="SR0">*</text>
-<text x="-8.6106" y="18.2626" size="2.0828" layer="25" ratio="10" rot="SR0">&gt;NAME</text>
-<text x="-9.6266" y="-4.9022" size="2.0828" layer="27" ratio="10" rot="SR0">&gt;VALUE</text>
-</package>
 </packages>
 <symbols>
 <symbol name="PCF8574AN">
@@ -8082,28 +7990,6 @@ at 30/07/2012 17:45:58</description>
 <wire x1="12.7" y1="15.24" x2="-12.7" y2="15.24" width="0.4064" layer="94"/>
 <text x="-5.0292" y="17.7292" size="2.0828" layer="95" ratio="10" rot="SR0">&gt;NAME</text>
 <text x="-4.5466" y="-27.4574" size="2.0828" layer="96" ratio="10" rot="SR0">&gt;VALUE</text>
-</symbol>
-<symbol name="SN74HC04N">
-<pin name="VCC" x="-17.78" y="7.62" length="middle" direction="pwr"/>
-<pin name="1A" x="-17.78" y="2.54" length="middle" direction="in"/>
-<pin name="2A" x="-17.78" y="0" length="middle" direction="in"/>
-<pin name="3A" x="-17.78" y="-2.54" length="middle" direction="in"/>
-<pin name="4A" x="-17.78" y="-5.08" length="middle" direction="in"/>
-<pin name="5A" x="-17.78" y="-7.62" length="middle" direction="in"/>
-<pin name="6A" x="-17.78" y="-10.16" length="middle" direction="in"/>
-<pin name="GND" x="-17.78" y="-15.24" length="middle" direction="pas"/>
-<pin name="1Y" x="17.78" y="7.62" length="middle" direction="out" rot="R180"/>
-<pin name="2Y" x="17.78" y="5.08" length="middle" direction="out" rot="R180"/>
-<pin name="3Y" x="17.78" y="2.54" length="middle" direction="out" rot="R180"/>
-<pin name="4Y" x="17.78" y="0" length="middle" direction="out" rot="R180"/>
-<pin name="6Y" x="17.78" y="-2.54" length="middle" direction="out" rot="R180"/>
-<pin name="5Y" x="17.78" y="-5.08" length="middle" direction="out" rot="R180"/>
-<wire x1="-12.7" y1="12.7" x2="-12.7" y2="-20.32" width="0.4064" layer="94"/>
-<wire x1="-12.7" y1="-20.32" x2="12.7" y2="-20.32" width="0.4064" layer="94"/>
-<wire x1="12.7" y1="-20.32" x2="12.7" y2="12.7" width="0.4064" layer="94"/>
-<wire x1="12.7" y1="12.7" x2="-12.7" y2="12.7" width="0.4064" layer="94"/>
-<text x="-5.4864" y="15.1638" size="2.0828" layer="95" ratio="10" rot="SR0">&gt;NAME</text>
-<text x="-2.7178" y="-23.5458" size="2.0828" layer="96" ratio="10" rot="SR0">&gt;VALUE</text>
 </symbol>
 </symbols>
 <devicesets>
@@ -8138,41 +8024,6 @@ at 30/07/2012 17:45:58</description>
 <attribute name="OC_FARNELL" value="1703443" constant="no"/>
 <attribute name="OC_NEWARK" value="75C5234" constant="no"/>
 <attribute name="PACKAGE" value="PDIP-16" constant="no"/>
-<attribute name="SUPPLIER" value="Texas Instruments" constant="no"/>
-</technology>
-</technologies>
-</device>
-</devices>
-</deviceset>
-<deviceset name="SN74HC04N" prefix="U">
-<description>HEX INVERTERS</description>
-<gates>
-<gate name="A" symbol="SN74HC04N" x="0" y="0"/>
-</gates>
-<devices>
-<device name="" package="DIP254P762X508-14">
-<connects>
-<connect gate="A" pin="1A" pad="1"/>
-<connect gate="A" pin="1Y" pad="2"/>
-<connect gate="A" pin="2A" pad="3"/>
-<connect gate="A" pin="2Y" pad="4"/>
-<connect gate="A" pin="3A" pad="5"/>
-<connect gate="A" pin="3Y" pad="6"/>
-<connect gate="A" pin="4A" pad="9"/>
-<connect gate="A" pin="4Y" pad="8"/>
-<connect gate="A" pin="5A" pad="11"/>
-<connect gate="A" pin="5Y" pad="10"/>
-<connect gate="A" pin="6A" pad="13"/>
-<connect gate="A" pin="6Y" pad="12"/>
-<connect gate="A" pin="GND" pad="7"/>
-<connect gate="A" pin="VCC" pad="14"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="MPN" value="SN74HC04N" constant="no"/>
-<attribute name="OC_FARNELL" value="9590951" constant="no"/>
-<attribute name="OC_NEWARK" value="08F6425" constant="no"/>
-<attribute name="PACKAGE" value="DIP-14" constant="no"/>
 <attribute name="SUPPLIER" value="Texas Instruments" constant="no"/>
 </technology>
 </technologies>
@@ -9220,23 +9071,6 @@ Proven layout and schematic for ETek 5Hz GPS receiver connector. Spark Fun Elect
 <part name="RSDA" library="rcl" deviceset="R-US_" device="0207/7"/>
 <part name="PCF2" library="Texas Instruments_By_element14_Batch_1" deviceset="PCF8574AN" device=""/>
 <part name="PCF1" library="Texas Instruments_By_element14_Batch_1" deviceset="PCF8574AN" device=""/>
-<part name="RHEX" library="Texas Instruments_By_element14_Batch_1" deviceset="SN74HC04N" device=""/>
-<part name="PCF2-1" library="rcl" deviceset="R-US_" device="0207/7"/>
-<part name="PCF2-2" library="rcl" deviceset="R-US_" device="0207/7"/>
-<part name="PCF2-3" library="rcl" deviceset="R-US_" device="0207/7"/>
-<part name="PCF2-4" library="rcl" deviceset="R-US_" device="0207/7"/>
-<part name="PCF2-5" library="rcl" deviceset="R-US_" device="0207/7"/>
-<part name="PCF2-6" library="rcl" deviceset="R-US_" device="0207/7"/>
-<part name="PCF2-7" library="rcl" deviceset="R-US_" device="0207/7"/>
-<part name="PCF1-1" library="rcl" deviceset="R-US_" device="0207/7"/>
-<part name="PCF1-2" library="rcl" deviceset="R-US_" device="0207/7"/>
-<part name="PCF1-4" library="rcl" deviceset="R-US_" device="0207/7"/>
-<part name="PCF1-5" library="rcl" deviceset="R-US_" device="0207/7"/>
-<part name="PCF1-6" library="rcl" deviceset="R-US_" device="0207/7"/>
-<part name="PCF1-7" library="rcl" deviceset="R-US_" device="0207/7"/>
-<part name="PCF1-8" library="rcl" deviceset="R-US_" device="0207/7"/>
-<part name="PCF1-3" library="rcl" deviceset="R-US_" device="0207/7"/>
-<part name="PCF2-8" library="rcl" deviceset="R-US_" device="0207/7"/>
 <part name="RSCL" library="rcl" deviceset="R-US_" device="0207/7"/>
 <part name="VREG" library="adafruit" deviceset="78*" device="T" technology="05"/>
 <part name="C1" library="adafruit" deviceset="C-US" device="025-025X050" value="0.33"/>
@@ -9269,9 +9103,9 @@ Proven layout and schematic for ETek 5Hz GPS receiver connector. Spark Fun Elect
 <part name="H2" library="holes" deviceset="MOUNT-PAD-ROUND" device="2.8"/>
 <part name="H3" library="holes" deviceset="MOUNT-PAD-ROUND" device="2.8"/>
 <part name="H4" library="holes" deviceset="MOUNT-PAD-ROUND" device="2.8"/>
-<part name="LED6" library="adafruit" deviceset="LED" device="3MM"/>
+<part name="LED0" library="adafruit" deviceset="LED" device="3MM"/>
 <part name="LED5" library="adafruit" deviceset="LED" device="3MM"/>
-<part name="EXTERNALSWITCH" library="SparkFun-Connectors" deviceset="M02" device="PTH"/>
+<part name="PCF3" library="Texas Instruments_By_element14_Batch_1" deviceset="PCF8574AN" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -9288,27 +9122,10 @@ Proven layout and schematic for ETek 5Hz GPS receiver connector. Spark Fun Elect
 <instance part="RSDA" gate="G$1" x="20.32" y="55.88"/>
 <instance part="PCF2" gate="A" x="45.72" y="111.76"/>
 <instance part="PCF1" gate="A" x="-22.86" y="111.76"/>
-<instance part="RHEX" gate="A" x="-15.24" y="58.42"/>
-<instance part="PCF2-1" gate="G$1" x="76.2" y="121.92"/>
-<instance part="PCF2-2" gate="G$1" x="76.2" y="119.38"/>
-<instance part="PCF2-3" gate="G$1" x="76.2" y="116.84"/>
-<instance part="PCF2-4" gate="G$1" x="76.2" y="114.3"/>
-<instance part="PCF2-5" gate="G$1" x="76.2" y="111.76"/>
-<instance part="PCF2-6" gate="G$1" x="76.2" y="109.22"/>
-<instance part="PCF2-7" gate="G$1" x="76.2" y="106.68"/>
-<instance part="PCF1-1" gate="G$1" x="10.16" y="121.92"/>
-<instance part="PCF1-2" gate="G$1" x="10.16" y="119.38"/>
-<instance part="PCF1-4" gate="G$1" x="10.16" y="114.3"/>
-<instance part="PCF1-5" gate="G$1" x="10.16" y="111.76"/>
-<instance part="PCF1-6" gate="G$1" x="10.16" y="109.22"/>
-<instance part="PCF1-7" gate="G$1" x="10.16" y="106.68"/>
-<instance part="PCF1-8" gate="G$1" x="10.16" y="104.14"/>
-<instance part="PCF1-3" gate="G$1" x="10.16" y="116.84"/>
-<instance part="PCF2-8" gate="G$1" x="76.2" y="104.14"/>
 <instance part="RSCL" gate="G$1" x="20.32" y="53.34"/>
 <instance part="VREG" gate="A1" x="45.72" y="12.7"/>
-<instance part="C1" gate="G$1" x="35.56" y="10.16"/>
-<instance part="C2" gate="G$1" x="55.88" y="10.16"/>
+<instance part="C1" gate="G$1" x="27.94" y="10.16"/>
+<instance part="C2" gate="G$1" x="58.42" y="10.16"/>
 <instance part="M1" gate="G$1" x="-25.4" y="154.94"/>
 <instance part="M3" gate="G$1" x="-2.54" y="154.94"/>
 <instance part="M5" gate="G$1" x="20.32" y="154.94"/>
@@ -9337,9 +9154,9 @@ Proven layout and schematic for ETek 5Hz GPS receiver connector. Spark Fun Elect
 <instance part="H2" gate="G$1" x="86.36" y="-7.62"/>
 <instance part="H3" gate="G$1" x="86.36" y="-17.78"/>
 <instance part="H4" gate="G$1" x="86.36" y="-25.4"/>
-<instance part="LED6" gate="G$1" x="68.58" y="88.9"/>
+<instance part="LED0" gate="G$1" x="68.58" y="88.9"/>
 <instance part="LED5" gate="G$1" x="114.3" y="88.9"/>
-<instance part="EXTERNALSWITCH" gate="G$1" x="40.64" y="-15.24" rot="R270"/>
+<instance part="PCF3" gate="A" x="-22.86" y="58.42"/>
 </instances>
 <busses>
 </busses>
@@ -9363,13 +9180,7 @@ Proven layout and schematic for ETek 5Hz GPS receiver connector. Spark Fun Elect
 <wire x1="27.94" y1="101.6" x2="25.4" y2="101.6" width="0.1524" layer="91"/>
 <wire x1="25.4" y1="99.06" x2="22.86" y2="99.06" width="0.1524" layer="91"/>
 <junction x="25.4" y="99.06"/>
-<label x="20.32" y="99.06" size="1.778" layer="95"/>
 <junction x="25.4" y="101.6"/>
-</segment>
-<segment>
-<pinref part="RHEX" gate="A" pin="GND"/>
-<wire x1="-33.02" y1="43.18" x2="-35.56" y2="43.18" width="0.1524" layer="91"/>
-<label x="-38.1" y="43.18" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="PCF1" gate="A" pin="GND"/>
@@ -9394,9 +9205,9 @@ Proven layout and schematic for ETek 5Hz GPS receiver connector. Spark Fun Elect
 <segment>
 <pinref part="C1" gate="G$1" pin="2"/>
 <pinref part="VREG" gate="A1" pin="GND"/>
-<wire x1="35.56" y1="5.08" x2="45.72" y2="5.08" width="0.1524" layer="91"/>
+<wire x1="27.94" y1="5.08" x2="45.72" y2="5.08" width="0.1524" layer="91"/>
 <pinref part="C2" gate="G$1" pin="2"/>
-<wire x1="45.72" y1="5.08" x2="55.88" y2="5.08" width="0.1524" layer="91"/>
+<wire x1="45.72" y1="5.08" x2="58.42" y2="5.08" width="0.1524" layer="91"/>
 <junction x="45.72" y="5.08"/>
 <wire x1="45.72" y1="5.08" x2="45.72" y2="0" width="0.1524" layer="91"/>
 <label x="45.72" y="0" size="1.778" layer="95"/>
@@ -9449,7 +9260,7 @@ Proven layout and schematic for ETek 5Hz GPS receiver connector. Spark Fun Elect
 <wire x1="96.52" y1="81.28" x2="106.68" y2="81.28" width="0.1524" layer="91"/>
 <junction x="96.52" y="81.28"/>
 <junction x="106.68" y="81.28"/>
-<pinref part="LED6" gate="G$1" pin="C"/>
+<pinref part="LED0" gate="G$1" pin="C"/>
 <wire x1="68.58" y1="83.82" x2="68.58" y2="81.28" width="0.1524" layer="91"/>
 <wire x1="68.58" y1="81.28" x2="76.2" y2="81.28" width="0.1524" layer="91"/>
 <wire x1="106.68" y1="81.28" x2="114.3" y2="81.28" width="0.1524" layer="91"/>
@@ -9543,57 +9354,73 @@ Proven layout and schematic for ETek 5Hz GPS receiver connector. Spark Fun Elect
 <wire x1="-5.08" y1="10.16" x2="-5.08" y2="7.62" width="0.1524" layer="91"/>
 <label x="-10.16" y="7.62" size="1.778" layer="95"/>
 </segment>
-</net>
-<net name="M5_M6_EN" class="0">
 <segment>
-<pinref part="PCF2" gate="A" pin="P0"/>
-<pinref part="PCF2-1" gate="G$1" pin="1"/>
-<wire x1="71.12" y1="121.92" x2="63.5" y2="121.92" width="0.1524" layer="91"/>
-<label x="60.96" y="121.92" size="1.778" layer="95"/>
+<pinref part="PCF3" gate="A" pin="A0"/>
+<wire x1="-40.64" y1="50.8" x2="-45.72" y2="50.8" width="0.1524" layer="91"/>
+<label x="-48.26" y="50.8" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="PCF3" gate="A" pin="A2"/>
+<wire x1="-40.64" y1="45.72" x2="-45.72" y2="45.72" width="0.1524" layer="91"/>
+<label x="-48.26" y="45.72" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="PCF3" gate="A" pin="GND"/>
+<wire x1="-40.64" y1="40.64" x2="-45.72" y2="40.64" width="0.1524" layer="91"/>
+<label x="-48.26" y="40.64" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="SWITCH" gate="1" pin="S"/>
+<wire x1="68.58" y1="-5.08" x2="68.58" y2="-2.54" width="0.1524" layer="91"/>
+<label x="68.58" y="-2.54" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="M4_M5_EN" class="0">
 <segment>
 <pinref part="DRIVER3" gate="G$1" pin="STBY"/>
 <wire x1="160.02" y1="48.26" x2="162.56" y2="48.26" width="0.1524" layer="91"/>
 <label x="165.1" y="48.26" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="PCF3" gate="A" pin="P4"/>
+<wire x1="-5.08" y1="58.42" x2="0" y2="58.42" width="0.1524" layer="91"/>
+<label x="-5.08" y="58.42" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="LED0" class="0">
+<segment>
+<pinref part="PCF1" gate="A" pin="P5"/>
+<wire x1="-5.08" y1="109.22" x2="0" y2="109.22" width="0.1524" layer="91"/>
+<label x="-2.54" y="109.22" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="LED0" gate="G$1" pin="A"/>
+<wire x1="68.58" y1="91.44" x2="68.58" y2="93.98" width="0.1524" layer="91"/>
+<label x="68.58" y="91.44" size="1.778" layer="95" rot="R90"/>
+</segment>
 </net>
 <net name="LED1" class="0">
 <segment>
-<pinref part="PCF2" gate="A" pin="P1"/>
-<pinref part="PCF2-2" gate="G$1" pin="1"/>
-<wire x1="71.12" y1="119.38" x2="63.5" y2="119.38" width="0.1524" layer="91"/>
-<label x="63.5" y="119.38" size="1.778" layer="95"/>
+<pinref part="PCF1" gate="A" pin="P6"/>
+<wire x1="-5.08" y1="106.68" x2="0" y2="106.68" width="0.1524" layer="91"/>
+<label x="-2.54" y="106.68" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="LED1" gate="G$1" pin="A"/>
 <wire x1="76.2" y1="91.44" x2="76.2" y2="93.98" width="0.1524" layer="91"/>
-<label x="71.12" y="93.98" size="1.778" layer="95"/>
+<label x="76.2" y="91.44" size="1.778" layer="95" rot="R90"/>
 </segment>
 </net>
 <net name="LED2" class="0">
 <segment>
-<pinref part="PCF2" gate="A" pin="P2"/>
-<pinref part="PCF2-3" gate="G$1" pin="1"/>
-<wire x1="71.12" y1="116.84" x2="63.5" y2="116.84" width="0.1524" layer="91"/>
-<label x="63.5" y="116.84" size="1.778" layer="95"/>
+<pinref part="PCF2" gate="A" pin="P5"/>
+<wire x1="63.5" y1="109.22" x2="68.58" y2="109.22" width="0.1524" layer="91"/>
+<label x="66.04" y="109.22" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="LED2" gate="G$1" pin="A"/>
 <wire x1="86.36" y1="91.44" x2="86.36" y2="93.98" width="0.1524" layer="91"/>
-<label x="81.28" y="93.98" size="1.778" layer="95"/>
-</segment>
-</net>
-<net name="LED3" class="0">
-<segment>
-<pinref part="PCF2" gate="A" pin="P3"/>
-<pinref part="PCF2-4" gate="G$1" pin="1"/>
-<wire x1="71.12" y1="114.3" x2="63.5" y2="114.3" width="0.1524" layer="91"/>
-<label x="63.5" y="114.3" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="LED3" gate="G$1" pin="A"/>
-<wire x1="96.52" y1="91.44" x2="96.52" y2="93.98" width="0.1524" layer="91"/>
-<label x="91.44" y="93.98" size="1.778" layer="95"/>
+<label x="86.36" y="91.44" size="1.778" layer="95" rot="R90"/>
 </segment>
 </net>
 <net name="PB_LED" class="0">
@@ -9604,220 +9431,115 @@ Proven layout and schematic for ETek 5Hz GPS receiver connector. Spark Fun Elect
 <label x="-27.94" y="2.54" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="PCF2" gate="A" pin="P7"/>
-<pinref part="PCF2-8" gate="G$1" pin="1"/>
-<wire x1="71.12" y1="104.14" x2="68.58" y2="104.14" width="0.1524" layer="91"/>
-<label x="63.5" y="104.14" size="1.778" layer="95"/>
-<wire x1="68.58" y1="104.14" x2="63.5" y2="104.14" width="0.1524" layer="91"/>
+<pinref part="PCF1" gate="A" pin="P7"/>
+<wire x1="-5.08" y1="104.14" x2="0" y2="104.14" width="0.1524" layer="91"/>
+<label x="-2.54" y="104.14" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="M1_IN1" class="0">
-<segment>
-<pinref part="PCF1" gate="A" pin="P0"/>
-<pinref part="PCF1-1" gate="G$1" pin="1"/>
-<wire x1="5.08" y1="121.92" x2="-5.08" y2="121.92" width="0.1524" layer="91"/>
-<label x="-7.62" y="121.92" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="RHEX" gate="A" pin="1A"/>
-<wire x1="-33.02" y1="60.96" x2="-35.56" y2="60.96" width="0.1524" layer="91"/>
-<label x="-40.64" y="60.96" size="1.778" layer="95"/>
-</segment>
+<net name="M0_IN1" class="0">
 <segment>
 <pinref part="DRIVER1" gate="G$1" pin="AIN1"/>
 <wire x1="162.56" y1="111.76" x2="165.1" y2="111.76" width="0.1524" layer="91"/>
 <label x="167.64" y="111.76" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="PCF1" gate="A" pin="P0"/>
+<wire x1="-5.08" y1="121.92" x2="0" y2="121.92" width="0.1524" layer="91"/>
+<label x="-5.08" y="121.92" size="1.778" layer="95"/>
+</segment>
 </net>
-<net name="M2_IN1" class="0">
-<segment>
-<pinref part="RHEX" gate="A" pin="2A"/>
-<wire x1="-33.02" y1="58.42" x2="-35.56" y2="58.42" width="0.1524" layer="91"/>
-<label x="-40.64" y="58.42" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="PCF1" gate="A" pin="P1"/>
-<pinref part="PCF1-2" gate="G$1" pin="1"/>
-<wire x1="-5.08" y1="119.38" x2="5.08" y2="119.38" width="0.1524" layer="91"/>
-<label x="-5.08" y="119.38" size="1.778" layer="95"/>
-</segment>
+<net name="M1_IN1" class="0">
 <segment>
 <pinref part="DRIVER1" gate="G$1" pin="BIN1"/>
 <wire x1="165.1" y1="106.68" x2="162.56" y2="106.68" width="0.1524" layer="91"/>
 <label x="167.64" y="106.68" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="PCF1" gate="A" pin="P2"/>
+<wire x1="-5.08" y1="116.84" x2="0" y2="116.84" width="0.1524" layer="91"/>
+<label x="-5.08" y="116.84" size="1.778" layer="95"/>
+</segment>
 </net>
-<net name="M4_IN1" class="0">
-<segment>
-<pinref part="RHEX" gate="A" pin="4A"/>
-<wire x1="-33.02" y1="53.34" x2="-35.56" y2="53.34" width="0.1524" layer="91"/>
-<label x="-40.64" y="53.34" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="PCF1" gate="A" pin="P3"/>
-<pinref part="PCF1-4" gate="G$1" pin="1"/>
-<wire x1="-5.08" y1="114.3" x2="5.08" y2="114.3" width="0.1524" layer="91"/>
-<label x="-5.08" y="114.3" size="1.778" layer="95"/>
-</segment>
+<net name="M3_IN1" class="0">
 <segment>
 <pinref part="DRIVER2" gate="G$1" pin="BIN1"/>
 <wire x1="162.56" y1="76.2" x2="160.02" y2="76.2" width="0.1524" layer="91"/>
 <label x="165.1" y="76.2" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="PCF2" gate="A" pin="P2"/>
+<wire x1="63.5" y1="116.84" x2="68.58" y2="116.84" width="0.1524" layer="91"/>
+<label x="63.5" y="116.84" size="1.778" layer="95"/>
+</segment>
 </net>
-<net name="M5_IN1" class="0">
-<segment>
-<pinref part="PCF1" gate="A" pin="P4"/>
-<pinref part="PCF1-5" gate="G$1" pin="1"/>
-<wire x1="5.08" y1="111.76" x2="-5.08" y2="111.76" width="0.1524" layer="91"/>
-<label x="-5.08" y="111.76" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="RHEX" gate="A" pin="5A"/>
-<wire x1="-33.02" y1="50.8" x2="-35.56" y2="50.8" width="0.1524" layer="91"/>
-<label x="-40.64" y="50.8" size="1.778" layer="95"/>
-</segment>
+<net name="M4_IN1" class="0">
 <segment>
 <pinref part="DRIVER3" gate="G$1" pin="AIN1"/>
 <wire x1="160.02" y1="50.8" x2="162.56" y2="50.8" width="0.1524" layer="91"/>
 <label x="165.1" y="50.8" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="PCF3" gate="A" pin="P0"/>
+<wire x1="-5.08" y1="68.58" x2="0" y2="68.58" width="0.1524" layer="91"/>
+<label x="-5.08" y="68.58" size="1.778" layer="95"/>
+</segment>
 </net>
-<net name="M6_IN1" class="0">
-<segment>
-<pinref part="RHEX" gate="A" pin="6A"/>
-<wire x1="-33.02" y1="48.26" x2="-35.56" y2="48.26" width="0.1524" layer="91"/>
-<label x="-43.18" y="48.26" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="PCF1" gate="A" pin="P5"/>
-<pinref part="PCF1-6" gate="G$1" pin="1"/>
-<wire x1="-5.08" y1="109.22" x2="5.08" y2="109.22" width="0.1524" layer="91"/>
-<label x="-5.08" y="109.22" size="1.778" layer="95"/>
-</segment>
+<net name="M5_IN1" class="0">
 <segment>
 <pinref part="DRIVER3" gate="G$1" pin="BIN1"/>
 <wire x1="162.56" y1="45.72" x2="160.02" y2="45.72" width="0.1524" layer="91"/>
 <label x="165.1" y="45.72" size="1.778" layer="95"/>
 </segment>
-</net>
-<net name="M1_M2_EN" class="0">
 <segment>
-<pinref part="PCF1" gate="A" pin="P6"/>
-<pinref part="PCF1-7" gate="G$1" pin="1"/>
-<wire x1="5.08" y1="106.68" x2="-5.08" y2="106.68" width="0.1524" layer="91"/>
-<label x="-7.62" y="106.68" size="1.778" layer="95"/>
+<pinref part="PCF3" gate="A" pin="P2"/>
+<wire x1="-5.08" y1="63.5" x2="0" y2="63.5" width="0.1524" layer="91"/>
+<label x="-5.08" y="63.5" size="1.778" layer="95"/>
 </segment>
+</net>
+<net name="M0_M1_EN" class="0">
 <segment>
 <pinref part="DRIVER1" gate="G$1" pin="STBY"/>
 <wire x1="162.56" y1="109.22" x2="165.1" y2="109.22" width="0.1524" layer="91"/>
 <label x="167.64" y="109.22" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="PCF1" gate="A" pin="P4"/>
+<wire x1="-5.08" y1="111.76" x2="0" y2="111.76" width="0.1524" layer="91"/>
+<label x="-5.08" y="111.76" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="M3_M4_EN" class="0">
-<segment>
-<pinref part="PCF1" gate="A" pin="P7"/>
-<pinref part="PCF1-8" gate="G$1" pin="1"/>
-<wire x1="5.08" y1="104.14" x2="-5.08" y2="104.14" width="0.1524" layer="91"/>
-<label x="-7.62" y="104.14" size="1.778" layer="95"/>
-</segment>
 <segment>
 <pinref part="DRIVER2" gate="G$1" pin="STBY"/>
 <wire x1="160.02" y1="78.74" x2="162.56" y2="78.74" width="0.1524" layer="91"/>
 <label x="165.1" y="78.74" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="M3_IN1" class="0">
-<segment>
-<pinref part="PCF1" gate="A" pin="P2"/>
-<pinref part="PCF1-3" gate="G$1" pin="1"/>
-<wire x1="5.08" y1="116.84" x2="-5.08" y2="116.84" width="0.1524" layer="91"/>
-<label x="-5.08" y="116.84" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="RHEX" gate="A" pin="3A"/>
-<wire x1="-33.02" y1="55.88" x2="-35.56" y2="55.88" width="0.1524" layer="91"/>
-<label x="-40.64" y="55.88" size="1.778" layer="95"/>
-</segment>
+<net name="M2_IN1" class="0">
 <segment>
 <pinref part="DRIVER2" gate="G$1" pin="AIN1"/>
 <wire x1="160.02" y1="81.28" x2="162.56" y2="81.28" width="0.1524" layer="91"/>
 <label x="165.1" y="81.28" size="1.778" layer="95"/>
 </segment>
-</net>
-<net name="LED4" class="0">
 <segment>
-<pinref part="LED4" gate="G$1" pin="A"/>
-<wire x1="106.68" y1="91.44" x2="106.68" y2="93.98" width="0.1524" layer="91"/>
-<label x="101.6" y="93.98" size="1.778" layer="95"/>
+<pinref part="PCF2" gate="A" pin="P0"/>
+<wire x1="63.5" y1="121.92" x2="68.58" y2="121.92" width="0.1524" layer="91"/>
+<label x="63.5" y="121.92" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="LED3" class="0">
+<segment>
+<pinref part="PCF2" gate="A" pin="P6"/>
+<wire x1="63.5" y1="106.68" x2="68.58" y2="106.68" width="0.1524" layer="91"/>
+<label x="66.04" y="106.68" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="PCF2" gate="A" pin="P4"/>
-<pinref part="PCF2-5" gate="G$1" pin="1"/>
-<wire x1="71.12" y1="111.76" x2="63.5" y2="111.76" width="0.1524" layer="91"/>
-<label x="63.5" y="111.76" size="1.778" layer="95"/>
+<pinref part="LED3" gate="G$1" pin="A"/>
+<wire x1="96.52" y1="91.44" x2="96.52" y2="93.98" width="0.1524" layer="91"/>
+<label x="96.52" y="91.44" size="1.778" layer="95" rot="R90"/>
 </segment>
 </net>
 <net name="VCC" class="0">
-<segment>
-<pinref part="PCF1-1" gate="G$1" pin="2"/>
-<pinref part="PCF1-2" gate="G$1" pin="2"/>
-<wire x1="15.24" y1="121.92" x2="15.24" y2="119.38" width="0.1524" layer="91"/>
-<pinref part="PCF1-3" gate="G$1" pin="2"/>
-<wire x1="15.24" y1="116.84" x2="15.24" y2="119.38" width="0.1524" layer="91"/>
-<junction x="15.24" y="119.38"/>
-<pinref part="PCF1-4" gate="G$1" pin="2"/>
-<wire x1="15.24" y1="116.84" x2="15.24" y2="114.3" width="0.1524" layer="91"/>
-<junction x="15.24" y="116.84"/>
-<wire x1="15.24" y1="114.3" x2="15.24" y2="111.76" width="0.1524" layer="91"/>
-<junction x="15.24" y="114.3"/>
-<pinref part="PCF1-5" gate="G$1" pin="2"/>
-<junction x="15.24" y="111.76"/>
-<wire x1="15.24" y1="111.76" x2="15.24" y2="109.22" width="0.1524" layer="91"/>
-<pinref part="PCF1-6" gate="G$1" pin="2"/>
-<junction x="15.24" y="109.22"/>
-<wire x1="15.24" y1="109.22" x2="15.24" y2="106.68" width="0.1524" layer="91"/>
-<pinref part="PCF1-7" gate="G$1" pin="2"/>
-<junction x="15.24" y="106.68"/>
-<wire x1="15.24" y1="106.68" x2="15.24" y2="104.14" width="0.1524" layer="91"/>
-<pinref part="PCF1-8" gate="G$1" pin="2"/>
-<junction x="15.24" y="104.14"/>
-<wire x1="15.24" y1="104.14" x2="15.24" y2="99.06" width="0.1524" layer="91"/>
-<label x="10.16" y="99.06" size="1.778" layer="95"/>
-<junction x="15.24" y="121.92"/>
-</segment>
-<segment>
-<pinref part="PCF2-1" gate="G$1" pin="2"/>
-<wire x1="81.28" y1="121.92" x2="81.28" y2="119.38" width="0.1524" layer="91"/>
-<pinref part="PCF2-2" gate="G$1" pin="2"/>
-<junction x="81.28" y="119.38"/>
-<wire x1="81.28" y1="119.38" x2="81.28" y2="116.84" width="0.1524" layer="91"/>
-<pinref part="PCF2-3" gate="G$1" pin="2"/>
-<junction x="81.28" y="116.84"/>
-<wire x1="81.28" y1="116.84" x2="81.28" y2="114.3" width="0.1524" layer="91"/>
-<pinref part="PCF2-4" gate="G$1" pin="2"/>
-<junction x="81.28" y="114.3"/>
-<wire x1="81.28" y1="114.3" x2="81.28" y2="111.76" width="0.1524" layer="91"/>
-<pinref part="PCF2-5" gate="G$1" pin="2"/>
-<junction x="81.28" y="111.76"/>
-<wire x1="81.28" y1="111.76" x2="81.28" y2="109.22" width="0.1524" layer="91"/>
-<pinref part="PCF2-6" gate="G$1" pin="2"/>
-<junction x="81.28" y="109.22"/>
-<wire x1="81.28" y1="109.22" x2="81.28" y2="106.68" width="0.1524" layer="91"/>
-<pinref part="PCF2-7" gate="G$1" pin="2"/>
-<junction x="81.28" y="106.68"/>
-<wire x1="81.28" y1="106.68" x2="81.28" y2="104.14" width="0.1524" layer="91"/>
-<pinref part="PCF2-8" gate="G$1" pin="2"/>
-<junction x="81.28" y="104.14"/>
-<wire x1="81.28" y1="104.14" x2="81.28" y2="99.06" width="0.1524" layer="91"/>
-<label x="81.28" y="99.06" size="1.778" layer="95"/>
-<junction x="81.28" y="121.92"/>
-</segment>
-<segment>
-<pinref part="RHEX" gate="A" pin="VCC"/>
-<wire x1="-33.02" y1="66.04" x2="-35.56" y2="66.04" width="0.1524" layer="91"/>
-<label x="-38.1" y="66.04" size="1.778" layer="95"/>
-</segment>
 <segment>
 <pinref part="RSDA" gate="G$1" pin="1"/>
 <pinref part="RSCL" gate="G$1" pin="1"/>
@@ -9835,9 +9557,10 @@ Proven layout and schematic for ETek 5Hz GPS receiver connector. Spark Fun Elect
 <segment>
 <pinref part="VREG" gate="A1" pin="VO"/>
 <pinref part="C2" gate="G$1" pin="1"/>
-<wire x1="55.88" y1="12.7" x2="63.5" y2="12.7" width="0.1524" layer="91"/>
-<junction x="55.88" y="12.7"/>
+<wire x1="58.42" y1="12.7" x2="60.96" y2="12.7" width="0.1524" layer="91"/>
+<junction x="58.42" y="12.7"/>
 <label x="60.96" y="12.7" size="1.778" layer="95"/>
+<wire x1="58.42" y1="12.7" x2="55.88" y2="12.7" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="ENC1" gate="G$1" pin="P1"/>
@@ -9870,11 +9593,6 @@ Proven layout and schematic for ETek 5Hz GPS receiver connector. Spark Fun Elect
 <label x="142.24" y="165.1" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="ARDUINOMICRO" gate="G$1" pin="9V"/>
-<wire x1="58.42" y1="66.04" x2="60.96" y2="66.04" width="0.1524" layer="91"/>
-<label x="60.96" y="66.04" size="1.778" layer="95"/>
-</segment>
-<segment>
 <pinref part="PCF1" gate="A" pin="VCC"/>
 <wire x1="-40.64" y1="121.92" x2="-43.18" y2="121.92" width="0.1524" layer="91"/>
 <label x="-48.26" y="121.92" size="1.778" layer="95"/>
@@ -9904,14 +9622,25 @@ Proven layout and schematic for ETek 5Hz GPS receiver connector. Spark Fun Elect
 <wire x1="88.9" y1="38.1" x2="81.28" y2="38.1" width="0.1524" layer="91"/>
 <label x="78.74" y="38.1" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="PCF3" gate="A" pin="VCC"/>
+<wire x1="-40.64" y1="68.58" x2="-45.72" y2="68.58" width="0.1524" layer="91"/>
+<label x="-48.26" y="68.58" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="PCF3" gate="A" pin="A1"/>
+<wire x1="-40.64" y1="48.26" x2="-45.72" y2="48.26" width="0.1524" layer="91"/>
+<label x="-48.26" y="48.26" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="V_MOT" class="0">
 <segment>
 <pinref part="VREG" gate="A1" pin="VI"/>
 <pinref part="C1" gate="G$1" pin="1"/>
-<wire x1="35.56" y1="12.7" x2="30.48" y2="12.7" width="0.1524" layer="91"/>
-<junction x="35.56" y="12.7"/>
-<label x="25.4" y="12.7" size="1.778" layer="95"/>
+<wire x1="27.94" y1="12.7" x2="30.48" y2="12.7" width="0.1524" layer="91"/>
+<junction x="27.94" y="12.7"/>
+<label x="22.86" y="12.7" size="1.778" layer="95"/>
+<wire x1="27.94" y1="12.7" x2="35.56" y2="12.7" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="DRIVER1" gate="G$1" pin="VMOT"/>
@@ -9938,8 +9667,13 @@ Proven layout and schematic for ETek 5Hz GPS receiver connector. Spark Fun Elect
 <wire x1="88.9" y1="17.78" x2="81.28" y2="17.78" width="0.1524" layer="91"/>
 <label x="78.74" y="17.78" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="ARDUINOMICRO" gate="G$1" pin="9V"/>
+<wire x1="58.42" y1="66.04" x2="60.96" y2="66.04" width="0.1524" layer="91"/>
+<label x="60.96" y="66.04" size="1.778" layer="95"/>
+</segment>
 </net>
-<net name="M1_A" class="0">
+<net name="M0_A" class="0">
 <segment>
 <pinref part="M1" gate="G$1" pin="P1"/>
 <wire x1="-30.48" y1="165.1" x2="-30.48" y2="167.64" width="0.1524" layer="91"/>
@@ -9951,7 +9685,7 @@ Proven layout and schematic for ETek 5Hz GPS receiver connector. Spark Fun Elect
 <label x="119.38" y="111.76" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="M1_B" class="0">
+<net name="M0_B" class="0">
 <segment>
 <pinref part="M1" gate="G$1" pin="P2"/>
 <wire x1="-20.32" y1="165.1" x2="-20.32" y2="167.64" width="0.1524" layer="91"/>
@@ -9963,7 +9697,7 @@ Proven layout and schematic for ETek 5Hz GPS receiver connector. Spark Fun Elect
 <label x="119.38" y="109.22" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="M2_B" class="0">
+<net name="M1_B" class="0">
 <segment>
 <pinref part="M2" gate="G$1" pin="P2"/>
 <wire x1="-20.32" y1="193.04" x2="-20.32" y2="195.58" width="0.1524" layer="91"/>
@@ -9977,17 +9711,17 @@ Proven layout and schematic for ETek 5Hz GPS receiver connector. Spark Fun Elect
 </net>
 <net name="M2_A" class="0">
 <segment>
-<pinref part="M2" gate="G$1" pin="P1"/>
-<wire x1="-30.48" y1="193.04" x2="-30.48" y2="195.58" width="0.1524" layer="91"/>
-<label x="-38.1" y="193.04" size="1.778" layer="95"/>
+<pinref part="M3" gate="G$1" pin="P1"/>
+<wire x1="-7.62" y1="165.1" x2="-7.62" y2="167.64" width="0.1524" layer="91"/>
+<label x="-15.24" y="165.1" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="DRIVER1" gate="G$1" pin="BO1"/>
-<wire x1="129.54" y1="104.14" x2="127" y2="104.14" width="0.1524" layer="91"/>
-<label x="119.38" y="104.14" size="1.778" layer="95"/>
+<pinref part="DRIVER2" gate="G$1" pin="AO1"/>
+<wire x1="127" y1="81.28" x2="124.46" y2="81.28" width="0.1524" layer="91"/>
+<label x="116.84" y="81.28" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="M1_PWM" class="0">
+<net name="M0_PWM" class="0">
 <segment>
 <pinref part="DRIVER1" gate="G$1" pin="PWMA"/>
 <wire x1="162.56" y1="116.84" x2="165.1" y2="116.84" width="0.1524" layer="91"/>
@@ -10004,7 +9738,7 @@ Proven layout and schematic for ETek 5Hz GPS receiver connector. Spark Fun Elect
 <label x="30.48" y="38.1" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="M2_PWM" class="0">
+<net name="M1_PWM" class="0">
 <segment>
 <pinref part="ARDUINOMICRO" gate="G$1" pin="5"/>
 <wire x1="33.02" y1="48.26" x2="30.48" y2="48.26" width="0.1524" layer="91"/>
@@ -10038,6 +9772,11 @@ Proven layout and schematic for ETek 5Hz GPS receiver connector. Spark Fun Elect
 <wire x1="25.4" y1="53.34" x2="33.02" y2="53.34" width="0.1524" layer="91"/>
 <label x="25.4" y="53.34" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="PCF3" gate="A" pin="SCL"/>
+<wire x1="-40.64" y1="58.42" x2="-45.72" y2="58.42" width="0.1524" layer="91"/>
+<label x="-48.26" y="58.42" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="SDA" class="0">
 <segment>
@@ -10056,77 +9795,70 @@ Proven layout and schematic for ETek 5Hz GPS receiver connector. Spark Fun Elect
 <wire x1="33.02" y1="55.88" x2="25.4" y2="55.88" width="0.1524" layer="91"/>
 <label x="25.4" y="55.88" size="1.778" layer="95"/>
 </segment>
-</net>
-<net name="M1_IN2" class="0">
 <segment>
-<pinref part="RHEX" gate="A" pin="1Y"/>
-<wire x1="2.54" y1="66.04" x2="5.08" y2="66.04" width="0.1524" layer="91"/>
-<label x="2.54" y="66.04" size="1.778" layer="95"/>
+<pinref part="PCF3" gate="A" pin="SDA"/>
+<wire x1="-40.64" y1="55.88" x2="-45.72" y2="55.88" width="0.1524" layer="91"/>
+<label x="-48.26" y="55.88" size="1.778" layer="95"/>
 </segment>
+</net>
+<net name="M0_IN2" class="0">
 <segment>
 <pinref part="DRIVER1" gate="G$1" pin="AIN2"/>
 <wire x1="162.56" y1="114.3" x2="165.1" y2="114.3" width="0.1524" layer="91"/>
 <label x="167.64" y="114.3" size="1.778" layer="95"/>
 </segment>
-</net>
-<net name="M2_IN2" class="0">
 <segment>
-<pinref part="RHEX" gate="A" pin="2Y"/>
-<wire x1="2.54" y1="63.5" x2="5.08" y2="63.5" width="0.1524" layer="91"/>
-<label x="2.54" y="63.5" size="1.778" layer="95"/>
+<pinref part="PCF1" gate="A" pin="P1"/>
+<wire x1="-5.08" y1="119.38" x2="0" y2="119.38" width="0.1524" layer="91"/>
+<label x="-5.08" y="119.38" size="1.778" layer="95"/>
 </segment>
+</net>
+<net name="M1_IN2" class="0">
 <segment>
 <pinref part="DRIVER1" gate="G$1" pin="BIN2"/>
 <wire x1="162.56" y1="104.14" x2="165.1" y2="104.14" width="0.1524" layer="91"/>
 <label x="167.64" y="104.14" size="1.778" layer="95"/>
 </segment>
-</net>
-<net name="M3_IN2" class="0">
 <segment>
-<pinref part="RHEX" gate="A" pin="3Y"/>
-<wire x1="2.54" y1="60.96" x2="5.08" y2="60.96" width="0.1524" layer="91"/>
-<label x="2.54" y="60.96" size="1.778" layer="95"/>
+<pinref part="PCF1" gate="A" pin="P3"/>
+<wire x1="-5.08" y1="114.3" x2="0" y2="114.3" width="0.1524" layer="91"/>
+<label x="-5.08" y="114.3" size="1.778" layer="95"/>
 </segment>
+</net>
+<net name="M2_IN2" class="0">
 <segment>
 <pinref part="DRIVER2" gate="G$1" pin="AIN2"/>
 <wire x1="160.02" y1="83.82" x2="162.56" y2="83.82" width="0.1524" layer="91"/>
 <label x="165.1" y="83.82" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="PCF2" gate="A" pin="P1"/>
+<wire x1="63.5" y1="119.38" x2="68.58" y2="119.38" width="0.1524" layer="91"/>
+<label x="63.5" y="119.38" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="M4_IN2" class="0">
 <segment>
-<pinref part="RHEX" gate="A" pin="4Y"/>
-<wire x1="2.54" y1="58.42" x2="5.08" y2="58.42" width="0.1524" layer="91"/>
-<label x="2.54" y="58.42" size="1.778" layer="95"/>
+<pinref part="PCF3" gate="A" pin="P1"/>
+<wire x1="-5.08" y1="66.04" x2="2.54" y2="66.04" width="0.1524" layer="91"/>
+<label x="-5.08" y="66.04" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="DRIVER2" gate="G$1" pin="BIN2"/>
-<wire x1="160.02" y1="73.66" x2="162.56" y2="73.66" width="0.1524" layer="91"/>
-<label x="165.1" y="73.66" size="1.778" layer="95"/>
+<pinref part="DRIVER3" gate="G$1" pin="AIN2"/>
+<wire x1="160.02" y1="53.34" x2="165.1" y2="53.34" width="0.1524" layer="91"/>
+<label x="165.1" y="53.34" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="M6_IN2" class="0">
+<net name="M5_IN2" class="0">
 <segment>
 <pinref part="DRIVER3" gate="G$1" pin="BIN2"/>
 <wire x1="160.02" y1="43.18" x2="162.56" y2="43.18" width="0.1524" layer="91"/>
 <label x="165.1" y="43.18" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="RHEX" gate="A" pin="6Y"/>
-<wire x1="2.54" y1="55.88" x2="5.08" y2="55.88" width="0.1524" layer="91"/>
-<label x="2.54" y="55.88" size="1.778" layer="95"/>
-</segment>
-</net>
-<net name="M5_IN2" class="0">
-<segment>
-<pinref part="DRIVER3" gate="G$1" pin="AIN2"/>
-<wire x1="160.02" y1="53.34" x2="162.56" y2="53.34" width="0.1524" layer="91"/>
-<label x="165.1" y="53.34" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="RHEX" gate="A" pin="5Y"/>
-<wire x1="2.54" y1="53.34" x2="5.08" y2="53.34" width="0.1524" layer="91"/>
-<label x="2.54" y="53.34" size="1.778" layer="95"/>
+<pinref part="PCF3" gate="A" pin="P3"/>
+<wire x1="-5.08" y1="60.96" x2="0" y2="60.96" width="0.1524" layer="91"/>
+<label x="-5.08" y="60.96" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="M5_PWM" class="0">
@@ -10136,17 +9868,10 @@ Proven layout and schematic for ETek 5Hz GPS receiver connector. Spark Fun Elect
 <label x="165.1" y="55.88" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="JP1" gate="A" pin="6"/>
-<wire x1="88.9" y1="53.34" x2="81.28" y2="53.34" width="0.1524" layer="91"/>
-<label x="78.74" y="53.34" size="1.778" layer="95"/>
-</segment>
-<segment>
 <pinref part="ARDUINOMICRO" gate="G$1" pin="11"/>
 <wire x1="33.02" y1="33.02" x2="30.48" y2="33.02" width="0.1524" layer="91"/>
 <label x="25.4" y="33.02" size="1.778" layer="95"/>
 </segment>
-</net>
-<net name="M6_PWM" class="0">
 <segment>
 <pinref part="ARDUINOMICRO" gate="G$1" pin="13"/>
 <wire x1="58.42" y1="30.48" x2="60.96" y2="30.48" width="0.1524" layer="91"/>
@@ -10163,19 +9888,7 @@ Proven layout and schematic for ETek 5Hz GPS receiver connector. Spark Fun Elect
 <label x="78.74" y="50.8" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="M3_A" class="0">
-<segment>
-<pinref part="M3" gate="G$1" pin="P1"/>
-<wire x1="-7.62" y1="165.1" x2="-7.62" y2="167.64" width="0.1524" layer="91"/>
-<label x="-15.24" y="165.1" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="DRIVER2" gate="G$1" pin="AO1"/>
-<wire x1="127" y1="81.28" x2="124.46" y2="81.28" width="0.1524" layer="91"/>
-<label x="116.84" y="81.28" size="1.778" layer="95"/>
-</segment>
-</net>
-<net name="M3_B" class="0">
+<net name="M2_B" class="0">
 <segment>
 <pinref part="M3" gate="G$1" pin="P2"/>
 <wire x1="2.54" y1="165.1" x2="2.54" y2="167.64" width="0.1524" layer="91"/>
@@ -10187,7 +9900,7 @@ Proven layout and schematic for ETek 5Hz GPS receiver connector. Spark Fun Elect
 <label x="116.84" y="78.74" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="M4_B" class="0">
+<net name="M3_B" class="0">
 <segment>
 <pinref part="M4" gate="G$1" pin="P2"/>
 <wire x1="2.54" y1="193.04" x2="2.54" y2="195.58" width="0.1524" layer="91"/>
@@ -10199,7 +9912,7 @@ Proven layout and schematic for ETek 5Hz GPS receiver connector. Spark Fun Elect
 <label x="116.84" y="76.2" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="M4_A" class="0">
+<net name="M3_A" class="0">
 <segment>
 <pinref part="M4" gate="G$1" pin="P1"/>
 <wire x1="-7.62" y1="193.04" x2="-7.62" y2="195.58" width="0.1524" layer="91"/>
@@ -10211,7 +9924,7 @@ Proven layout and schematic for ETek 5Hz GPS receiver connector. Spark Fun Elect
 <label x="116.84" y="73.66" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="M3_PWM" class="0">
+<net name="M2_PWM" class="0">
 <segment>
 <pinref part="ARDUINOMICRO" gate="G$1" pin="6"/>
 <wire x1="33.02" y1="45.72" x2="30.48" y2="45.72" width="0.1524" layer="91"/>
@@ -10228,7 +9941,7 @@ Proven layout and schematic for ETek 5Hz GPS receiver connector. Spark Fun Elect
 <label x="78.74" y="58.42" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="M4_PWM" class="0">
+<net name="M3_PWM" class="0">
 <segment>
 <pinref part="DRIVER2" gate="G$1" pin="PWMB"/>
 <wire x1="160.02" y1="71.12" x2="162.56" y2="71.12" width="0.1524" layer="91"/>
@@ -10245,7 +9958,7 @@ Proven layout and schematic for ETek 5Hz GPS receiver connector. Spark Fun Elect
 <label x="30.48" y="35.56" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="M5_A" class="0">
+<net name="M4_A" class="0">
 <segment>
 <pinref part="M5" gate="G$1" pin="P1"/>
 <wire x1="15.24" y1="165.1" x2="15.24" y2="167.64" width="0.1524" layer="91"/>
@@ -10257,7 +9970,7 @@ Proven layout and schematic for ETek 5Hz GPS receiver connector. Spark Fun Elect
 <label x="116.84" y="50.8" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="M5_B" class="0">
+<net name="M4_B" class="0">
 <segment>
 <pinref part="M5" gate="G$1" pin="P2"/>
 <wire x1="25.4" y1="165.1" x2="25.4" y2="167.64" width="0.1524" layer="91"/>
@@ -10268,8 +9981,13 @@ Proven layout and schematic for ETek 5Hz GPS receiver connector. Spark Fun Elect
 <wire x1="127" y1="48.26" x2="124.46" y2="48.26" width="0.1524" layer="91"/>
 <label x="116.84" y="48.26" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="DRIVER3" gate="G$1" pin="BO2"/>
+<wire x1="127" y1="45.72" x2="124.46" y2="45.72" width="0.1524" layer="91"/>
+<label x="116.84" y="45.72" size="1.778" layer="95"/>
+</segment>
 </net>
-<net name="M6_A" class="0">
+<net name="M5_A" class="0">
 <segment>
 <pinref part="M6" gate="G$1" pin="P1"/>
 <wire x1="15.24" y1="193.04" x2="15.24" y2="195.58" width="0.1524" layer="91"/>
@@ -10281,19 +9999,7 @@ Proven layout and schematic for ETek 5Hz GPS receiver connector. Spark Fun Elect
 <label x="116.84" y="43.18" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="M6_B" class="0">
-<segment>
-<pinref part="M6" gate="G$1" pin="P2"/>
-<wire x1="25.4" y1="193.04" x2="25.4" y2="195.58" width="0.1524" layer="91"/>
-<label x="17.78" y="193.04" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="DRIVER3" gate="G$1" pin="BO2"/>
-<wire x1="127" y1="45.72" x2="124.46" y2="45.72" width="0.1524" layer="91"/>
-<label x="116.84" y="45.72" size="1.778" layer="95"/>
-</segment>
-</net>
-<net name="M1_ENC" class="0">
+<net name="M0_ENC" class="0">
 <segment>
 <pinref part="ARDUINOMICRO" gate="G$1" pin="A0"/>
 <wire x1="58.42" y1="38.1" x2="60.96" y2="38.1" width="0.1524" layer="91"/>
@@ -10305,7 +10011,7 @@ Proven layout and schematic for ETek 5Hz GPS receiver connector. Spark Fun Elect
 <label x="30.48" y="142.24" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="M2_ENC" class="0">
+<net name="M1_ENC" class="0">
 <segment>
 <pinref part="ARDUINOMICRO" gate="G$1" pin="A1"/>
 <wire x1="58.42" y1="40.64" x2="60.96" y2="40.64" width="0.1524" layer="91"/>
@@ -10317,7 +10023,7 @@ Proven layout and schematic for ETek 5Hz GPS receiver connector. Spark Fun Elect
 <label x="55.88" y="142.24" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="M3_ENC" class="0">
+<net name="M2_ENC" class="0">
 <segment>
 <pinref part="ARDUINOMICRO" gate="G$1" pin="A2"/>
 <wire x1="58.42" y1="43.18" x2="60.96" y2="43.18" width="0.1524" layer="91"/>
@@ -10329,7 +10035,7 @@ Proven layout and schematic for ETek 5Hz GPS receiver connector. Spark Fun Elect
 <label x="76.2" y="142.24" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="M4_ENC" class="0">
+<net name="M3_ENC" class="0">
 <segment>
 <pinref part="ARDUINOMICRO" gate="G$1" pin="A3"/>
 <wire x1="58.42" y1="45.72" x2="60.96" y2="45.72" width="0.1524" layer="91"/>
@@ -10341,7 +10047,7 @@ Proven layout and schematic for ETek 5Hz GPS receiver connector. Spark Fun Elect
 <label x="96.52" y="142.24" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="M5_ENC" class="0">
+<net name="M4_ENC" class="0">
 <segment>
 <pinref part="ARDUINOMICRO" gate="G$1" pin="A4"/>
 <wire x1="58.42" y1="48.26" x2="60.96" y2="48.26" width="0.1524" layer="91"/>
@@ -10353,7 +10059,7 @@ Proven layout and schematic for ETek 5Hz GPS receiver connector. Spark Fun Elect
 <label x="121.92" y="142.24" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="M6_ENC" class="0">
+<net name="M5_ENC" class="0">
 <segment>
 <pinref part="ARDUINOMICRO" gate="G$1" pin="A5"/>
 <wire x1="58.42" y1="50.8" x2="60.96" y2="50.8" width="0.1524" layer="91"/>
@@ -10473,23 +10179,11 @@ Proven layout and schematic for ETek 5Hz GPS receiver connector. Spark Fun Elect
 <label x="78.74" y="35.56" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="N$3" class="0">
-<segment>
-<pinref part="SWITCH" gate="1" pin="S"/>
-<wire x1="68.58" y1="-5.08" x2="68.58" y2="-2.54" width="0.1524" layer="91"/>
-<label x="68.58" y="-2.54" size="1.778" layer="95"/>
-</segment>
-</net>
 <net name="V_IN" class="0">
 <segment>
 <pinref part="POWR-PLUG" gate="G$1" pin="POW"/>
 <wire x1="7.62" y1="-2.54" x2="0" y2="-2.54" width="0.1524" layer="91"/>
 <label x="-2.54" y="-2.54" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="EXTERNALSWITCH" gate="G$1" pin="1"/>
-<wire x1="40.64" y1="-22.86" x2="40.64" y2="-25.4" width="0.1524" layer="91"/>
-<label x="33.02" y="-25.4" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="D12" class="0">
@@ -10530,40 +10224,78 @@ Proven layout and schematic for ETek 5Hz GPS receiver connector. Spark Fun Elect
 </net>
 <net name="V_IN_1" class="0">
 <segment>
-<pinref part="EXTERNALSWITCH" gate="G$1" pin="2"/>
-<wire x1="43.18" y1="-22.86" x2="43.18" y2="-25.4" width="0.1524" layer="91"/>
-<label x="48.26" y="-25.4" size="1.778" layer="95"/>
-</segment>
-<segment>
 <pinref part="SWITCH" gate="1" pin="P"/>
 <wire x1="66.04" y1="-15.24" x2="66.04" y2="-17.78" width="0.1524" layer="91"/>
 <label x="58.42" y="-17.78" size="1.778" layer="95"/>
 </segment>
 </net>
+<net name="LED4" class="0">
+<segment>
+<pinref part="PCF3" gate="A" pin="P5"/>
+<wire x1="-5.08" y1="55.88" x2="0" y2="55.88" width="0.1524" layer="91"/>
+<label x="-2.54" y="55.88" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="LED4" gate="G$1" pin="A"/>
+<wire x1="106.68" y1="91.44" x2="106.68" y2="93.98" width="0.1524" layer="91"/>
+<label x="106.68" y="91.44" size="1.778" layer="95" rot="R90"/>
+</segment>
+</net>
 <net name="LED5" class="0">
 <segment>
-<pinref part="PCF2" gate="A" pin="P5"/>
-<pinref part="PCF2-6" gate="G$1" pin="1"/>
-<wire x1="71.12" y1="109.22" x2="63.5" y2="109.22" width="0.1524" layer="91"/>
-<label x="63.5" y="109.22" size="1.778" layer="95"/>
+<pinref part="PCF3" gate="A" pin="P6"/>
+<wire x1="-5.08" y1="53.34" x2="0" y2="53.34" width="0.1524" layer="91"/>
+<label x="-2.54" y="53.34" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="LED5" gate="G$1" pin="A"/>
 <wire x1="114.3" y1="91.44" x2="114.3" y2="93.98" width="0.1524" layer="91"/>
-<label x="109.22" y="93.98" size="1.778" layer="95"/>
+<label x="114.3" y="91.44" size="1.778" layer="95" rot="R90"/>
 </segment>
 </net>
-<net name="LED6" class="0">
+<net name="M3_IN2" class="0">
 <segment>
-<pinref part="PCF2" gate="A" pin="P6"/>
-<pinref part="PCF2-7" gate="G$1" pin="1"/>
-<wire x1="71.12" y1="106.68" x2="63.5" y2="106.68" width="0.1524" layer="91"/>
-<label x="63.5" y="106.68" size="1.778" layer="95"/>
+<pinref part="PCF2" gate="A" pin="P3"/>
+<wire x1="63.5" y1="114.3" x2="68.58" y2="114.3" width="0.1524" layer="91"/>
+<label x="63.5" y="114.3" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="LED6" gate="G$1" pin="A"/>
-<wire x1="68.58" y1="91.44" x2="68.58" y2="93.98" width="0.1524" layer="91"/>
-<label x="60.96" y="93.98" size="1.778" layer="95"/>
+<pinref part="DRIVER2" gate="G$1" pin="BIN2"/>
+<wire x1="160.02" y1="73.66" x2="162.56" y2="73.66" width="0.1524" layer="91"/>
+<label x="165.1" y="73.66" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="M2_M3_EN" class="0">
+<segment>
+<pinref part="PCF2" gate="A" pin="P4"/>
+<wire x1="63.5" y1="111.76" x2="68.58" y2="111.76" width="0.1524" layer="91"/>
+<label x="63.5" y="111.76" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="M4_PWM" class="0">
+<segment>
+<pinref part="JP1" gate="A" pin="6"/>
+<wire x1="88.9" y1="53.34" x2="81.28" y2="53.34" width="0.1524" layer="91"/>
+<label x="78.74" y="53.34" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="M1_A" class="0">
+<segment>
+<pinref part="DRIVER1" gate="G$1" pin="BO1"/>
+<wire x1="129.54" y1="104.14" x2="127" y2="104.14" width="0.1524" layer="91"/>
+<label x="119.38" y="104.14" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="M2" gate="G$1" pin="P1"/>
+<wire x1="-30.48" y1="193.04" x2="-30.48" y2="195.58" width="0.1524" layer="91"/>
+<label x="-38.1" y="193.04" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="M5_B" class="0">
+<segment>
+<pinref part="M6" gate="G$1" pin="P2"/>
+<wire x1="25.4" y1="193.04" x2="25.4" y2="195.58" width="0.1524" layer="91"/>
+<label x="17.78" y="193.04" size="1.778" layer="95"/>
 </segment>
 </net>
 </nets>
