@@ -58,12 +58,12 @@ tobi::tobi()
 	// 	__encoderVal[i] = 0;
 	// }
 
-	__pwmPins[0] = 9;
-	__pwmPins[1] = 12; 		// $ changed from 5 to 12, because __encoderPins[5] = 5
-	__pwmPins[2] = 6;
+	__pwmPins[0] = 5;
+	__pwmPins[1] = 6; 		// $ changed from 5 to 12, because __encoderPins[5] = 5
+	__pwmPins[2] = 9;
 	__pwmPins[3] = 10;
-	__pwmPins[4] = 11;
-	__pwmPins[5] = 13;
+	__pwmPins[4] = 8;
+	__pwmPins[5] = 12;
 
 	digitalWrite(13,LOW);		// $ turn off LED
 
