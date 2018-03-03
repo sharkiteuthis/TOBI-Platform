@@ -734,12 +734,20 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <wire x1="35.56" y1="53.34" x2="35.56" y2="68.58" width="0.1524" layer="91"/>
 <pinref part="U$1" gate="G$1" pin="DIR"/>
 <wire x1="88.9" y1="68.58" x2="93.98" y2="68.58" width="0.1524" layer="91"/>
-<wire x1="93.98" y1="68.58" x2="93.98" y2="53.34" width="0.1524" layer="91"/>
+<wire x1="93.98" y1="68.58" x2="93.98" y2="63.5" width="0.1524" layer="91"/>
+<wire x1="93.98" y1="63.5" x2="93.98" y2="58.42" width="0.1524" layer="91"/>
+<wire x1="93.98" y1="58.42" x2="93.98" y2="53.34" width="0.1524" layer="91"/>
 <wire x1="93.98" y1="53.34" x2="93.98" y2="43.18" width="0.1524" layer="91"/>
 <wire x1="93.98" y1="43.18" x2="35.56" y2="43.18" width="0.1524" layer="91"/>
 <wire x1="35.56" y1="43.18" x2="35.56" y2="53.34" width="0.1524" layer="91"/>
 <pinref part="U$1" gate="G$1" pin="PGO"/>
 <wire x1="88.9" y1="53.34" x2="93.98" y2="53.34" width="0.1524" layer="91"/>
+<pinref part="U$1" gate="G$1" pin="SCL"/>
+<wire x1="88.9" y1="63.5" x2="93.98" y2="63.5" width="0.1524" layer="91"/>
+<junction x="93.98" y="63.5"/>
+<pinref part="U$1" gate="G$1" pin="SDA"/>
+<wire x1="88.9" y1="58.42" x2="93.98" y2="58.42" width="0.1524" layer="91"/>
+<junction x="93.98" y="58.42"/>
 </segment>
 <segment>
 <pinref part="C3" gate="G$1" pin="1"/>
