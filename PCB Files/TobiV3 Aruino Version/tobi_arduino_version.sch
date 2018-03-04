@@ -9845,6 +9845,11 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <wire x1="58.42" y1="66.04" x2="60.96" y2="66.04" width="0.1524" layer="91"/>
 <label x="60.96" y="66.04" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="POWR-PLUG" gate="G$1" pin="POW"/>
+<wire x1="7.62" y1="-2.54" x2="0" y2="-2.54" width="0.1524" layer="91"/>
+<label x="-2.54" y="-2.54" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="M0_A" class="0">
 <segment>
@@ -10321,13 +10326,6 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <pinref part="JP1" gate="A" pin="13"/>
 <wire x1="88.9" y1="35.56" x2="81.28" y2="35.56" width="0.1524" layer="91"/>
 <label x="78.74" y="35.56" size="1.778" layer="95"/>
-</segment>
-</net>
-<net name="V_IN" class="0">
-<segment>
-<pinref part="POWR-PLUG" gate="G$1" pin="POW"/>
-<wire x1="7.62" y1="-2.54" x2="0" y2="-2.54" width="0.1524" layer="91"/>
-<label x="-2.54" y="-2.54" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="RESET" class="0">
