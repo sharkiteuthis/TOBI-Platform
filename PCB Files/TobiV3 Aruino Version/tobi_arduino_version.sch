@@ -10150,11 +10150,6 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <label x="116.84" y="48.26" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="DRIVER3" gate="G$1" pin="BO2"/>
-<wire x1="127" y1="45.72" x2="124.46" y2="45.72" width="0.1524" layer="91"/>
-<label x="116.84" y="45.72" size="1.778" layer="95"/>
-</segment>
-<segment>
 <pinref part="MOT_4" gate="G$1" pin="2"/>
 <wire x1="-33.02" y1="149.86" x2="-22.86" y2="149.86" width="0.1524" layer="91"/>
 <label x="-25.4" y="149.86" size="1.778" layer="95"/>
@@ -10467,6 +10462,11 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <pinref part="MOT_5" gate="G$1" pin="2"/>
 <wire x1="-2.54" y1="149.86" x2="10.16" y2="149.86" width="0.1524" layer="91"/>
 <label x="5.08" y="149.86" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="DRIVER3" gate="G$1" pin="BO2"/>
+<wire x1="127" y1="45.72" x2="124.46" y2="45.72" width="0.1524" layer="91"/>
+<label x="116.84" y="45.72" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$1" class="0">
