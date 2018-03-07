@@ -9680,13 +9680,6 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <label x="-5.08" y="111.76" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="M3_M4_EN" class="0">
-<segment>
-<pinref part="DRIVER2" gate="G$1" pin="STBY"/>
-<wire x1="160.02" y1="78.74" x2="162.56" y2="78.74" width="0.1524" layer="91"/>
-<label x="165.1" y="78.74" size="1.778" layer="95"/>
-</segment>
-</net>
 <net name="M2_IN1" class="0">
 <segment>
 <pinref part="DRIVER2" gate="G$1" pin="AIN1"/>
@@ -10369,6 +10362,11 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <pinref part="PCF2" gate="A" pin="P4"/>
 <wire x1="63.5" y1="111.76" x2="68.58" y2="111.76" width="0.1524" layer="91"/>
 <label x="63.5" y="111.76" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="DRIVER2" gate="G$1" pin="STBY"/>
+<wire x1="160.02" y1="78.74" x2="162.56" y2="78.74" width="0.1524" layer="91"/>
+<label x="165.1" y="78.74" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="M4_PWM" class="0">
