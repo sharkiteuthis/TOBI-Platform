@@ -9439,7 +9439,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <segment>
 <pinref part="POWR-PLUG" gate="G$1" pin="GND"/>
 <wire x1="7.62" y1="-5.08" x2="0" y2="-5.08" width="0.1524" layer="91"/>
-<label x="-2.54" y="-5.08" size="1.778" layer="95"/>
+<label x="-5.08" y="-5.08" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="JP1" gate="A" pin="1"/>
@@ -9808,14 +9808,6 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </net>
 <net name="V_MOT" class="0">
 <segment>
-<pinref part="VREG" gate="A1" pin="VI"/>
-<pinref part="C1" gate="G$1" pin="1"/>
-<wire x1="27.94" y1="12.7" x2="30.48" y2="12.7" width="0.1524" layer="91"/>
-<junction x="27.94" y="12.7"/>
-<label x="22.86" y="12.7" size="1.778" layer="95"/>
-<wire x1="27.94" y1="12.7" x2="35.56" y2="12.7" width="0.1524" layer="91"/>
-</segment>
-<segment>
 <pinref part="DRIVER1" gate="G$1" pin="VMOT"/>
 <wire x1="129.54" y1="101.6" x2="127" y2="101.6" width="0.1524" layer="91"/>
 <label x="116.84" y="101.6" size="1.778" layer="95"/>
@@ -9831,11 +9823,6 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <label x="116.84" y="40.64" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="SWITCH" gate="1" pin="O"/>
-<wire x1="63.5" y1="-5.08" x2="63.5" y2="-2.54" width="0.1524" layer="91"/>
-<label x="58.42" y="-2.54" size="1.778" layer="95"/>
-</segment>
-<segment>
 <pinref part="JP1" gate="A" pin="20"/>
 <wire x1="88.9" y1="17.78" x2="81.28" y2="17.78" width="0.1524" layer="91"/>
 <label x="78.74" y="17.78" size="1.778" layer="95"/>
@@ -9846,9 +9833,15 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <label x="60.96" y="66.04" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="POWR-PLUG" gate="G$1" pin="POW"/>
-<wire x1="7.62" y1="-2.54" x2="0" y2="-2.54" width="0.1524" layer="91"/>
-<label x="-2.54" y="-2.54" size="1.778" layer="95"/>
+<pinref part="VREG" gate="A1" pin="VI"/>
+<pinref part="C1" gate="G$1" pin="1"/>
+<wire x1="35.56" y1="12.7" x2="27.94" y2="12.7" width="0.1524" layer="91"/>
+<label x="25.4" y="12.7" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="SWITCH" gate="1" pin="P"/>
+<wire x1="66.04" y1="-15.24" x2="66.04" y2="-25.4" width="0.1524" layer="91"/>
+<label x="58.42" y="-22.86" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="M0_A" class="0">
@@ -10335,13 +10328,6 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <label x="25.4" y="60.96" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="V_IN_1" class="0">
-<segment>
-<pinref part="SWITCH" gate="1" pin="P"/>
-<wire x1="66.04" y1="-15.24" x2="66.04" y2="-17.78" width="0.1524" layer="91"/>
-<label x="58.42" y="-17.78" size="1.778" layer="95"/>
-</segment>
-</net>
 <net name="LED4" class="0">
 <segment>
 <pinref part="PCF3" gate="A" pin="P5"/>
@@ -10509,6 +10495,18 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <pinref part="R_LED5" gate="G$1" pin="1"/>
 <pinref part="LED5" gate="G$1" pin="A"/>
 <wire x1="-60.96" y1="96.52" x2="-60.96" y2="91.44" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="V_BATT" class="0">
+<segment>
+<pinref part="POWR-PLUG" gate="G$1" pin="POW"/>
+<wire x1="7.62" y1="-2.54" x2="0" y2="-2.54" width="0.1524" layer="91"/>
+<label x="-5.08" y="-2.54" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="SWITCH" gate="1" pin="O"/>
+<wire x1="63.5" y1="-5.08" x2="63.5" y2="-2.54" width="0.1524" layer="91"/>
+<label x="58.42" y="-2.54" size="1.778" layer="95"/>
 </segment>
 </net>
 </nets>
