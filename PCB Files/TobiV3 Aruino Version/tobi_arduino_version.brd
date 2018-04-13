@@ -153,6 +153,10 @@
 <dimension x1="96" y1="75" x2="96" y2="80" x3="96" y3="77.5" textsize="1.778" layer="1"/>
 <dimension x1="96" y1="10" x2="96" y2="6" x3="103" y3="8" textsize="1.778" layer="1"/>
 <dimension x1="96" y1="10" x2="100" y2="10" x3="98" y3="7" textsize="1.778" layer="1"/>
+<text x="0" y="18" size="1.778" layer="21" rot="R90">ON</text>
+<text x="0" y="26" size="1.778" layer="21" rot="R90">OFF</text>
+<text x="60" y="37" size="1.778" layer="22" rot="MR270">TOBI v4
+Tom Dodson</text>
 </plain>
 <libraries>
 <library name="adafruit">
@@ -2104,7 +2108,7 @@ design rules under a new name.</description>
 <element name="R_LED5" library="resistor" library_urn="urn:adsk.eagle:library:348" package="0204V" value="" x="94.36" y="17.52"/>
 <element name="R_SCL" library="resistor" library_urn="urn:adsk.eagle:library:348" package="0204V" value="" x="72.26" y="35.48" rot="R180"/>
 <element name="R_SDA" library="resistor" library_urn="urn:adsk.eagle:library:348" package="0204V" value="" x="72.26" y="40.48" rot="R180"/>
-<element name="SWITCH" library="adafruit" package="EG1218" value="" x="2.88" y="24.12" rot="R90"/>
+<element name="SWITCH" library="adafruit" package="EG1218" value="" x="2.88" y="24.12" smashed="yes" rot="R90"/>
 <element name="VREG" library="adafruit" package="TO220H" value="7805T" x="25.12" y="26.37"/>
 </elements>
 <signals>
@@ -3661,6 +3665,10 @@ design rules under a new name.</description>
 </board>
 </drawing>
 <compatibility>
+<note version="6.3" minversion="6.2.2" severity="warning">
+Since Version 6.2.2 text objects can contain more than one line,
+which will not be processed correctly with this version.
+</note>
 <note version="8.2" severity="warning">
 Since Version 8.2, EAGLE supports online libraries. The ids
 of those online libraries will not be understood (or retained)
