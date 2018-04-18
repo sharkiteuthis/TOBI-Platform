@@ -157,6 +157,7 @@
 <text x="0" y="26" size="1.778" layer="21" rot="R90">OFF</text>
 <text x="60" y="37" size="1.778" layer="22" rot="MR270">TOBI v4
 Tom Dodson</text>
+<text x="55" y="48" size="1.778" layer="22" rot="MR270">www.grasp.upenn.edu</text>
 </plain>
 <libraries>
 <library name="adafruit">
