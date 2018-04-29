@@ -10517,13 +10517,6 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <errors>
 <approved hash="202,1,27.94,116.84,PCF2,~INT,,,,"/>
 <approved hash="202,1,-40.64,116.84,PCF1,~INT,,,,"/>
-<approved hash="113,1,76.5217,87.63,LED1,,,,,"/>
-<approved hash="113,1,86.6817,87.63,LED2,,,,,"/>
-<approved hash="113,1,96.8417,87.63,LED3,,,,,"/>
-<approved hash="113,1,107.002,87.63,LED4,,,,,"/>
-<approved hash="113,1,62.6195,-10.16,SWITCH,,,,,"/>
-<approved hash="113,1,89.1371,43.3112,JP1,,,,,"/>
-<approved hash="113,1,114.622,87.63,LED5,,,,,"/>
 </errors>
 </schematic>
 </drawing>
