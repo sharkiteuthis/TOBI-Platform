@@ -9227,6 +9227,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </variantdefs>
 <classes>
 <class number="0" name="default" width="0.254" drill="0">
+<clearance class="0" value="0.127"/>
 </class>
 </classes>
 <parts>
