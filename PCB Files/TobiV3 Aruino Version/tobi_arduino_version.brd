@@ -156,6 +156,9 @@
 <dimension x1="156" y1="30" x2="160" y2="30" x3="158" y3="18" textsize="1.778" layer="1" dtype="vertical"/>
 <text x="60" y="35" size="1.778" layer="21" rot="R90">on</text>
 <text x="60" y="42" size="1.778" layer="21" rot="R90">off</text>
+<text x="107" y="57" size="1.778" layer="22" rot="MR270">www.grasp.upenn.edu
+TOBI v4.1
+tcdodson@gmail.com</text>
 </plain>
 <libraries>
 <library name="adafruit">
@@ -3541,6 +3544,10 @@ design rules under a new name.</description>
 </board>
 </drawing>
 <compatibility>
+<note version="6.3" minversion="6.2.2" severity="warning">
+Since Version 6.2.2 text objects can contain more than one line,
+which will not be processed correctly with this version.
+</note>
 <note version="8.2" severity="warning">
 Since Version 8.2, EAGLE supports online libraries. The ids
 of those online libraries will not be understood (or retained)
