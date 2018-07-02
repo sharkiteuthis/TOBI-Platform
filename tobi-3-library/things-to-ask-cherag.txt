@@ -1,0 +1,6 @@
+Things to ask Cherag
+
+- __legUpdate() & wrapper
+- __pwmPin vs __encoderPin both being assigned pin 5 (switch to 12?)
+- PCB diagram?
+- tprint(), getEncoder(), __setEncoder() methods?
