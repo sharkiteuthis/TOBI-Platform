@@ -1,0 +1,10 @@
+Screaming Circuits SMD component position file.
+
+Centroid Data for pc board: "TobiEncAS5600.brd" as of: 7/5/2018 09:56
+Measurements are in inches. Comma delimited
+Only surface mount components included
+
+RefDes,Layer,LocationX,LocationY,Rotation
+C2,Top,0.806,3.649,90
+C3,Top,0.805,3.499,90
+U$1,Top,1.024,3.622,270
